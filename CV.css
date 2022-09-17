@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(229, 236, 236);
+}
+.A{
+    max-width: 1000px;
+    background-color: aqua;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+
+}
+.B{
+    height: 120px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    float: left;
+}
+.C{
+    float: left;
+    padding: 30px;
+    font-style: italic;
+}
+h1,h2,h3,h4,h5,h6{
+    color: blue;
+}
+.D{
+    float: right;
+}
+.D a{
+    text-decoration: none;
+    color: blue;
+}
+.D a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.div{
+    clear: both;
+}
+br{
+    border: solid rgb(232, 10, 10) 3px;
+    width: 100%;
+    margin: auto;
+    border-bottom: none;
+}
+.containt{
+    margin-bottom: 30px;
+}
+.left{
+    width: 30%;
+    float: left;
+}
+.right{
+    width: 70%;
+    float: left;
+}
+.br{
+    border: solid black 2px;
+    border-bottom: none;
+    margin: 20px auto;
+}
+.rightA{
+    width: 45%;
+    float: left;
+}
+.rightB{
+    width: 45%;
+    float: right;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.footer a{
+    color: green;
+    text-decoration: none;
+    margin: 10px;
+}
+.footer p{
+    color: green;
+    text-decoration: none;
+    margin: 10px;
+}
